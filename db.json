@@ -17,6 +17,24 @@
       "title": "Post 3",
       "type": "continue",
       "cover": "https://picsum.photos/id/237/200/300"
+    },
+        {
+      "id": 4,
+      "title": "Post 4",
+      "type": "continue",
+      "cover": "https://picsum.photos/id/237/200/300"
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "type": "continue",
+      "cover": "https://picsum.photos/id/237/200/300"
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "type": "continue",
+      "cover": "https://picsum.photos/id/237/200/300"
     }
   ]
 }
