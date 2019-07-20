@@ -127,7 +127,7 @@
       "cover": "https://picsum.photos/id/239/200/300"
     }
   ],
-  videoList: [
+  "videoList": [
         {
           id: '1',
           name: 'DESIGNATED SURVIVOR',
