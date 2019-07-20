@@ -161,5 +161,25 @@
         "season": "4 season",
         "user": "Jack Truman"
       }
-   ]
+   ],
+        gallery:[
+        {
+          "id":1,
+          "image":{
+            "picture1":"https://picsum.photos/id/265/400/300",
+            "picture2":"https://picsum.photos/id/266/400/300",
+            "picture3":"https://picsum.photos/id/267/400/300",
+            "picture4":"https://picsum.photos/id/268/400/300"
+          }
+        },
+        {
+          "id":2,
+          "image":{
+            "picture1":"https://picsum.photos/id/270/400/300",
+            "picture2":"https://picsum.photos/id/271/400/300",
+            "picture3":"https://picsum.photos/id/272/400/300",
+            "picture4":"https://picsum.photos/id/273/400/300"
+          }
+        }
+      ]
 }
