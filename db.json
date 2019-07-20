@@ -128,17 +128,16 @@
     }
   ],
   "videoList": [
+      {
         "id": 1,
-        "name": "DESIGNATED SURVIVOR",
+        "name": "NARCOS",
         "image": "https://picsum.photos/500/400",
-        "publishedAt": "2m ago",
-        "released": 2017,
-        "genders": "TV Shows",
-        "available": "13+",
-        "season": "1 season",
-        "user": {
-        "name": "Shkodran Arifi"
-      }
+        "publishedAt": "5m ago",
+        "released": 2013,
+        "genders": "TV Series",
+        "available": "3+",
+        "season": "4 season",
+        "user": "jack"
       },
       {
         "id": 2,
@@ -149,10 +148,7 @@
         "genders": "TV Series",
         "available": "3+",
         "season": "4 season",
-        "user": {
-        "name": "Jane Brewer"
+        "user": "ricki"
       }
-    }
-
-      ]
+   ]
 }
