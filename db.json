@@ -187,10 +187,10 @@
             "picture4":"https://picsum.photos/id/273/400/300"
           },
           "class":{
-            "className5":"gallery__picture5",
-            "className6":"gallery__picture6",
-            "className7":"gallery__picture7",
-            "className8":"gallery__picture8"
+            "className1":"gallery__picture5",
+            "className2":"gallery__picture6",
+            "className3":"gallery__picture7",
+            "className4":"gallery__picture8"
           }
         }
       ]
