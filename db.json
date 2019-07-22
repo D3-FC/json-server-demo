@@ -171,6 +171,11 @@
             "picture3":"https://picsum.photos/id/267/400/300",
             "picture4":"https://picsum.photos/id/268/400/300"
           }
+          ,
+          "class":{
+            "pct1":"gallery__picture1",
+            "pct2":"yo2"
+          }
         },
         {
           "id":2,
@@ -181,7 +186,7 @@
             "picture4":"https://picsum.photos/id/273/400/300"
           },
           "class":{
-            "pct1":"yo",
+            "pct1":"gallery__picture1",
             "pct2":"yo2"
           }
         }
