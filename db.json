@@ -173,10 +173,10 @@
           },
           "class":{
             "galleryClass":"gallery-top",
-            "className1":"gallery__picture1",
-            "className2":"gallery__picture2",
-            "className3":"gallery__picture3",
-            "className4":"gallery__picture4"
+            "className1":"gallery-top__picture1",
+            "className2":"gallery-top__picture2",
+            "className3":"gallery-top__picture3",
+            "className4":"gallery-top__picture4"
           }
         },
         {
@@ -189,10 +189,10 @@
           },
           "class":{
             "galleryClass":"gallery-bottom",
-            "className1":"gallery__picture5",
-            "className2":"gallery__picture6",
-            "className3":"gallery__picture7",
-            "className4":"gallery__picture8"
+            "className1":"gallery-bottom__picture5",
+            "className2":"gallery-bottom__picture6",
+            "className3":"gallery-bottom__picture7",
+            "className4":"gallery-bottom__picture8"
           }
         }
       ]
