@@ -172,7 +172,7 @@
             "picture4":"https://picsum.photos/id/268/400/300"
           },
           "class":{
-            "galleryTop":"gallery-top",
+            "galleryClass":"gallery-top",
             "className1":"gallery__picture1",
             "className2":"gallery__picture2",
             "className3":"gallery__picture3",
@@ -188,7 +188,7 @@
             "picture4":"https://picsum.photos/id/273/400/300"
           },
           "class":{
-            "galleryBottom":"gallery-bottom",
+            "galleryClass":"gallery-bottom",
             "className1":"gallery__picture5",
             "className2":"gallery__picture6",
             "className3":"gallery__picture7",
